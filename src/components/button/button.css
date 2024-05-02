@@ -1,0 +1,10 @@
+.btn {
+    color: white;
+    background-color: var(--Pink);
+    padding: 13px 30px;
+    border-radius: 5555px;
+    transition: 0.5s;
+}
+.btn:hover {
+    background-color: hsl(322deg 100% 66% / 59%);
+}
